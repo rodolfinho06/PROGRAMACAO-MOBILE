@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+}
+button{
+    background-color: rgb(192, 42, 192);
+    color: blue;
+    border-radius: 30px;
+    font-size: 40px;
+    
+    
+}
