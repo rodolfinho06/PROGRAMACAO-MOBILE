@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(68, 45, 90);
+    color: rgb(252, 252, 252);
+    text-align: center;
+}
+input{
+    border-radius: 20px;
+    border-bottom: 30px;
+}
+a{
+    color: aqua;
+}
+legend{
+    font-size: 60px;
+}
